@@ -1,0 +1,101 @@
+candidate_id,rank,score,reasoning
+CAND_0077337,1,186.77,Staff Machine Learning Engineer with 7.0 years experience; key skills: RAG
+CAND_0018499,2,181.28,"Senior Machine Learning Engineer with 7.2 years experience; key skills: RAG, Milvus"
+CAND_0041669,3,172.22,"Recommendation Systems Engineer with 8.0 years experience; key skills: FAISS, Milvus, Machine Learning"
+CAND_0071974,4,171.88,"Senior AI Engineer with 7.8 years experience; key skills: RAG, Machine Learning"
+CAND_0064326,5,170.95,"Search Engineer with 7.6 years experience; key skills: RAG, Milvus, PyTorch"
+CAND_0039838,6,170.05,"Recommendation Systems Engineer with 4.9 years experience; key skills: RAG, Milvus"
+CAND_0077285,7,169.24,"Recommendation Systems Engineer with 5.5 years experience; key skills: FAISS, Milvus, NLP"
+CAND_0060072,8,167.25,"Staff Machine Learning Engineer with 5.7 years experience; key skills: RAG, Milvus, PyTorch"
+CAND_0051615,9,166.93,"Search Engineer with 4.6 years experience; key skills: RAG, Milvus, NLP"
+CAND_0074735,10,166.02,"Applied ML Engineer with 5.5 years experience; key skills: RAG, Machine Learning"
+CAND_0011162,11,165.2,"Recommendation Systems Engineer with 5.8 years experience; key skills: FAISS, Milvus"
+CAND_0042506,12,164.87,"Search Engineer with 4.2 years experience; key skills: FAISS, Milvus, NLP"
+CAND_0066999,13,164.65,"Recommendation Systems Engineer with 5.9 years experience; key skills: FAISS, Machine Learning"
+CAND_0041568,14,164.31,Search Engineer with 5.2 years experience
+CAND_0088025,15,162.47,"Staff Machine Learning Engineer with 8.6 years experience; key skills: RAG, NLP"
+CAND_0002025,16,162.03,"Senior AI Engineer with 5.9 years experience; key skills: FAISS, NLP"
+CAND_0036184,17,159.36,"Recommendation Systems Engineer with 6.0 years experience; key skills: FAISS, PyTorch"
+CAND_0014440,18,158.56,"Recommendation Systems Engineer with 6.4 years experience; key skills: FAISS, Milvus, Machine Learning"
+CAND_0036437,19,157.03,"Search Engineer with 4.8 years experience; key skills: FAISS, Milvus"
+CAND_0039521,20,156.79,"Search Engineer with 3.0 years experience; key skills: RAG, PyTorch, Machine Learning"
+CAND_0020877,21,155.68,"Applied ML Engineer with 5.1 years experience; key skills: Milvus, PyTorch"
+CAND_0049538,22,155.25,"Applied ML Engineer with 5.8 years experience; key skills: Milvus, PyTorch"
+CAND_0087364,23,155.19,"Recommendation Systems Engineer with 4.9 years experience; key skills: RAG, Milvus"
+CAND_0081686,24,152.89,"Search Engineer with 6.0 years experience; key skills: FAISS, Milvus, Machine Learning"
+CAND_0084819,25,152.75,Search Engineer with 4.5 years experience; key skills: PyTorch
+CAND_0099806,26,152.36,"AI Engineer with 4.6 years experience; key skills: RAG, FAISS"
+CAND_0023458,27,152.18,"AI Research Engineer with 5.0 years experience; key skills: RAG, FAISS"
+CAND_0020708,28,151.81,"Search Engineer with 4.2 years experience; key skills: Milvus, NLP"
+CAND_0093547,29,151.68,"Senior Machine Learning Engineer with 2.9 years experience; key skills: RAG, FAISS, Milvus"
+CAND_0013536,30,151.63,"Applied ML Engineer with 14.1 years experience; key skills: FAISS, Milvus, PyTorch"
+CAND_0091890,31,151.62,AI Research Engineer with 4.7 years experience; key skills: Milvus
+CAND_0026532,32,151.34,"Recommendation Systems Engineer with 4.8 years experience; key skills: FAISS, Milvus"
+CAND_0018549,33,150.58,Recommendation Systems Engineer with 6.8 years experience; key skills: Milvus
+CAND_0042441,34,149.55,"AI Research Engineer with 4.1 years experience; key skills: RAG, FAISS"
+CAND_0096801,35,149.38,"AI Research Engineer with 4.2 years experience; key skills: FAISS, Milvus"
+CAND_0005649,36,149.05,Senior Data Scientist with 7.4 years experience; key skills: RAG
+CAND_0039383,37,149.04,"Applied ML Engineer with 7.1 years experience; key skills: FAISS, NLP"
+CAND_0096142,38,148.54,"Applied ML Engineer with 5.0 years experience; key skills: RAG, NLP"
+CAND_0075574,39,148.4,Machine Learning Engineer with 5.7 years experience; key skills: PyTorch
+CAND_0047721,40,147.86,"Senior Data Scientist with 7.0 years experience; key skills: RAG, FAISS, Milvus"
+CAND_0083307,41,147.57,Search Engineer with 7.8 years experience
+CAND_0009024,42,146.73,"Search Engineer with 5.2 years experience; key skills: FAISS, PyTorch, Machine Learning"
+CAND_0002120,43,146.68,ML Engineer with 6.5 years experience; key skills: RAG
+CAND_0041610,44,146.24,Recommendation Systems Engineer with 6.7 years experience; key skills: PyTorch
+CAND_0000031,45,145.71,"Recommendation Systems Engineer with 6.0 years experience; key skills: FAISS, Machine Learning"
+CAND_0093193,46,145.46,Senior Machine Learning Engineer with 7.9 years experience; key skills: Machine Learning
+CAND_0078492,47,145.42,"Recommendation Systems Engineer with 5.1 years experience; key skills: FAISS, Machine Learning"
+CAND_0018722,48,145.32,Recommendation Systems Engineer with 6.6 years experience
+CAND_0052328,49,145.05,Recommendation Systems Engineer with 6.5 years experience
+CAND_0032515,50,144.95,"Machine Learning Engineer with 5.1 years experience; key skills: Milvus, PyTorch, NLP"
+CAND_0081846,51,144.78,"Lead AI Engineer with 6.7 years experience; key skills: PyTorch, Machine Learning"
+CAND_0010541,52,144.71,AI Research Engineer with 6.2 years experience; key skills: NLP
+CAND_0007009,53,144.45,Recommendation Systems Engineer with 7.9 years experience
+CAND_0042029,54,144.4,"Senior Data Scientist with 6.5 years experience; key skills: RAG, PyTorch, NLP"
+CAND_0060303,55,144.28,"AI Research Engineer with 4.9 years experience; key skills: RAG, FAISS, PyTorch"
+CAND_0029367,56,144.23,"Senior Data Scientist with 5.7 years experience; key skills: RAG, FAISS, PyTorch"
+CAND_0065195,57,144.23,Search Engineer with 5.1 years experience
+CAND_0007412,58,144.12,"Applied ML Engineer with 7.4 years experience; key skills: RAG, Milvus, PyTorch"
+CAND_0051466,59,143.94,"AI Research Engineer with 5.3 years experience; key skills: Milvus, PyTorch"
+CAND_0051292,60,143.92,"Applied ML Engineer with 5.2 years experience; key skills: RAG, FAISS, NLP"
+CAND_0040117,61,143.87,"Recommendation Systems Engineer with 6.5 years experience; key skills: RAG, FAISS"
+CAND_0053591,62,143.87,"AI Engineer with 5.3 years experience; key skills: RAG, Milvus"
+CAND_0012957,63,143.8,"Search Engineer with 4.9 years experience; key skills: RAG, Machine Learning"
+CAND_0061265,64,143.38,Recommendation Systems Engineer with 6.6 years experience; key skills: Milvus
+CAND_0058791,65,143.27,"AI Research Engineer with 4.1 years experience; key skills: RAG, NLP"
+CAND_0045250,66,142.95,"Applied ML Engineer with 6.6 years experience; key skills: Milvus, NLP"
+CAND_0086151,67,142.58,Recommendation Systems Engineer with 7.7 years experience
+CAND_0061655,68,142.46,"Machine Learning Engineer with 4.6 years experience; key skills: PyTorch, NLP, Machine Learning"
+CAND_0070398,69,142.24,"Machine Learning Engineer with 7.2 years experience; key skills: RAG, FAISS, PyTorch"
+CAND_0040200,70,142.03,"AI Research Engineer with 5.5 years experience; key skills: RAG, FAISS, Milvus"
+CAND_0080766,71,142.0,Staff Machine Learning Engineer with 8.8 years experience; key skills: Milvus
+CAND_0089552,72,141.8,"Machine Learning Engineer with 6.0 years experience; key skills: Milvus, Machine Learning"
+CAND_0061339,73,141.68,Search Engineer with 4.2 years experience; key skills: Milvus
+CAND_0059017,74,141.66,"AI Research Engineer with 6.8 years experience; key skills: FAISS, Machine Learning"
+CAND_0025640,75,141.63,"AI Research Engineer with 5.6 years experience; key skills: FAISS, PyTorch"
+CAND_0070202,76,140.95,"Machine Learning Engineer with 5.1 years experience; key skills: RAG, PyTorch, NLP"
+CAND_0092255,77,140.86,"ML Engineer with 5.2 years experience; key skills: RAG, PyTorch, Machine Learning"
+CAND_0074225,78,140.73,"Machine Learning Engineer with 4.3 years experience; key skills: Milvus, Machine Learning"
+CAND_0046525,79,140.64,"Senior Machine Learning Engineer with 6.1 years experience; key skills: NLP, Machine Learning"
+CAND_0044855,80,140.54,"Senior Data Scientist with 6.6 years experience; key skills: NLP, Machine Learning"
+CAND_0016163,81,140.35,Applied ML Engineer with 6.7 years experience; key skills: Machine Learning
+CAND_0070333,82,140.27,"AI Research Engineer with 4.7 years experience; key skills: FAISS, Milvus"
+CAND_0022812,83,140.07,Applied ML Engineer with 4.5 years experience; key skills: NLP
+CAND_0051630,84,139.91,"Machine Learning Engineer with 6.0 years experience; key skills: NLP, Machine Learning"
+CAND_0066376,85,139.87,"Applied ML Engineer with 5.7 years experience; key skills: FAISS, NLP"
+CAND_0001610,86,139.83,"Machine Learning Engineer with 3.0 years experience; key skills: FAISS, Milvus, PyTorch"
+CAND_0071747,87,139.75,AI Research Engineer with 4.2 years experience; key skills: Milvus
+CAND_0011643,88,139.34,AI Research Engineer with 4.2 years experience; key skills: FAISS
+CAND_0017960,89,139.28,Recommendation Systems Engineer with 7.7 years experience; key skills: Machine Learning
+CAND_0048509,90,138.87,"AI Research Engineer with 4.2 years experience; key skills: FAISS, PyTorch"
+CAND_0016432,91,138.79,"AI Research Engineer with 4.6 years experience; key skills: NLP, Machine Learning"
+CAND_0044890,92,138.79,AI Research Engineer with 5.0 years experience; key skills: FAISS
+CAND_0030953,93,138.5,Search Engineer with 7.8 years experience; key skills: RAG
+CAND_0006418,94,138.43,Machine Learning Engineer with 5.7 years experience
+CAND_0013111,95,138.31,AI Research Engineer with 4.2 years experience; key skills: RAG
+CAND_0098780,96,138.15,AI Research Engineer with 5.9 years experience; key skills: Milvus
+CAND_0007052,97,137.75,"ML Engineer with 6.5 years experience; key skills: RAG, Milvus, Machine Learning"
+CAND_0062247,98,137.74,AI Engineer with 7.3 years experience; key skills: RAG
+CAND_0047521,99,137.57,"Junior ML Engineer with 4.4 years experience; key skills: RAG, Milvus"
+CAND_0050876,100,137.47,"Applied ML Engineer with 6.0 years experience; key skills: FAISS, PyTorch, Machine Learning"
