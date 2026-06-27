@@ -1,0 +1,24 @@
+team_name: Sairam
+
+primary_contact_name: Tummuri Naga Veera Venkata Sai Ram
+
+primary_contact_email: tummurisairam@gmail.com
+
+primary_contact_phone: 9182855181
+
+github_repository: https://github.com/624183-NITAP/Redrob-Hackathon
+
+sandbox_demo_link: TO_BE_ADDED
+
+ai_tools_used:
+
+* ChatGPT
+
+compute_environment: "Windows 11, Python 3.13, CPU Only"
+
+methodology_summary: >
+Candidate profiles are processed through a feature extraction,
+scoring, and ranking pipeline. Relevant profile signals are
+converted into ranking scores, candidates are sorted by score,
+and the top 100 candidates are exported to the final submission
+CSV with supporting reasoning.
