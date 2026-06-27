@@ -6,6 +6,8 @@
 
 **Repository:** https://github.com/624183-NITAP/Redrob-Hackathon
 
+**sandbox_demo_link:** https://colab.research.google.com/drive/15qHp_Nl_t4mwZdKzsuc6IbSQEJCinvnZ?usp=sharing
+
 ---
 
 ## Overview
